@@ -2,61 +2,61 @@
   "languages": [
     {
       "id": "chino-cn",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-cn-0.22.zip",
       "sha256": "f1c1c1292bed650168e9abc5ef916f7143760be57a1ecc810bf38354f2a3c2cf"
     },
     {
       "id": "ruso-ru",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ru-0.22.zip",
       "sha256": "ff156ed06842b3d49d83859ca4735851f635745bc72ec027c8ea4ed4123c4344"
     },
     {
       "id": "portugues-pt",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-pt-0.3.zip",
       "sha256": "4d5f47452b6029661c3317039385f90bea04c0222cc36f34807ca8073868a044"
     },
      {
       "id": "turco-tr",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-tr-0.3.zip",
       "sha256": "16cb829dd8184fec9b56e32b0999c2fda0966dbcca9c4c2f627fe20757e87024"
     },
     {
       "id": "vietnamita-vn",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-vn-0.4.zip",
       "sha256": "8d05946a29409e0526357b466f64b87226ccd88990fa9c9f424c41dede6e0f69"
     },
     {
       "id": "holandes-nl",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-nl-0.22.zip",
       "sha256": "aebdd3e6a4ff24acb2d07e318e35f6774b491281935db3b0a9ed32075342b316"
     },
     {
       "id": "catalan-ca",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ca-0.4.zip",
       "sha256": "1592c938487577eeaf836d748f5afc052a93ea22834fbbee8ad5c2c5ce3e8d37"
     },
      {
       "id": "ucranio-uk",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-uk-v3-small.zip",
       "sha256": "b74b771d5af311413665b8e7371ff1f4c70a7a9a2f7da4477b55508d28ed1c2d"
     },
     {
       "id": "japones-ja",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ja-0.22.zip",
       "sha256": "8785be3845f965c6a5ba143b4169745c30705e7e2bb755a8939dcdd94994e1f2"
     },
     {
       "id": "coreano-ko",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ko-0.22.zip",
       "sha256": "802cce166c49b096b6bca95ce0176890ae0030e0b5307f36a456c7a9bd02b92c"
     }
