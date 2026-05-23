@@ -1,0 +1,64 @@
+{
+  "languages": [
+    {
+      "id": "chino",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-cn-0.22.zip",
+      "sha256": "hash_del_archivo_es"
+    },
+    {
+      "id": "ruso",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ru-0.22.zip",
+      "sha256": "hash_del_archivo_en"
+    },
+    {
+      "id": "portugues",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-pt-0.3.zip",
+      "sha256": "hash_del_archivo_fr"
+    },
+     {
+      "id": "turco",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-tr-0.3.zip",
+      "sha256": "hash_del_archivo_es"
+    },
+    {
+      "id": "vietnamita",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-vn-0.4.zip",
+      "sha256": "hash_del_archivo_en"
+    },
+    {
+      "id": "holandes",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-nl-0.22.zip",
+      "sha256": "hash_del_archivo_fr"
+    },
+    {
+      "id": "catalan",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ca-0.4.zip",
+      "sha256": "hash_del_archivo_fr"
+    },
+     {
+      "id": "ucranio",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-uk-v3-small.zip",
+      "sha256": "hash_del_archivo_es"
+    },
+    {
+      "id": "japones",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ja-0.22.zip",
+      "sha256": "hash_del_archivo_en"
+    },
+    {
+      "id": "coreano",
+      "version": "1.0",
+      "url": "https://github.com/DIEGO2919/Bilinguify/releases/download/v1.0/vosk-model-small-ko-0.22.zip",
+      "sha256": "hash_del_archivo_fr"
+    }
+  ]
+}
